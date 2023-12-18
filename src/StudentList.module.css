@@ -1,0 +1,38 @@
+.studentListContainer {
+ background-color: rgb(230, 197, 168);
+ color: red;;
+  margin: 50px;
+  padding: 20px;
+  border: 20px;
+  border-color: rgb(0, 255, 85);
+  border-radius: 50px;
+  box-shadow:inset;
+  justify-content: space-evenly;
+  padding: 20px;
+  height:400px;
+  width:400px;
+  display:table;
+}
+
+.studentItem {
+ background-color: rgb(18, 240, 44);
+ border-radius: 20px;
+ border-color: blueviolet ;
+ height:auto;
+ width:auto;
+ color: rgb(227, 26, 23);
+  margin-bottom: 10px;
+ font-style: italic;
+ font-size: large;
+ justify-content:space-around;
+}
+
+.courseItem {
+ color:white;
+ border-style: initial;
+ background-color:rgb(148, 79, 185);
+ border-radius: 20px;
+ border-color:yellow;
+  list-style-type: none;
+  margin: 5px;
+}

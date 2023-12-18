@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics",
+    "instructor": "Dr. Smith"
+  },
+  {
+    "id": 2,
+    "name": "History",
+    "instructor": "Prof. Johnson"
+  },
+  {
+    "id": 3,
+    "name": "Computer Science",
+    "instructor": "Prof. Pokharel"
+  },
+  {
+    "id": 4,
+    "name": "Biology",
+    "instructor": "Prof. Rimal"
+  },
+  {
+    "id": 5,
+    "name": "Immunology",
+    "instructor": "Prof. Harry"
+  },
+  {
+    "id":6,
+    "name": "Antomy and Physiology",
+    "instructor": "Dr. Siever"
+  }
+]
